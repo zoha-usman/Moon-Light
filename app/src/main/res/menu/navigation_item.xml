@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item
+        android:id="@+id/navHome"
+        android:title="@string/home"
+        android:icon="@drawable/ic_baseline_home_24"
+
+        />
+    <item
+        android:id="@+id/navCategorie"
+        android:title="@string/categories"
+        android:icon="@drawable/ic_baseline_category_24"
+
+        />
+
+    <item
+        android:id="@+id/navMyAccount"
+        android:title="@string/my_account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+
+        />
+    <item
+        android:id="@+id/navMyOrder"
+        android:title="@string/my_order"
+        android:icon="@drawable/ic_baseline_shopping_bag_24"
+
+
+        />
+    <item
+        android:id="@+id/shoppingcart"
+        android:title="@string/shopping_cart"
+        android:icon="@drawable/ic_baseline_shopping_bag_24"
+
+        />
+    <item
+        android:id="@+id/MyFavourite"
+        android:title="@string/my_favourite"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+
+        />
+
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_baseline_share_24"
+
+        />
+    <item
+        android:id="@+id/checkin"
+        android:title="@string/checked_in"
+        android:icon="@drawable/ic_baseline_login_24"
+
+        />
+    <item
+        android:id="@+id/checkout"
+        android:title="@string/checked_out"
+android:icon="@drawable/ic_baseline_delete_outline_24"
+        />
+
+</group>
+</menu>
